@@ -28,6 +28,11 @@ header{
   color: var(--dourado);
 }
 
+#header-link{
+  color: white;
+  margin-auto:center;
+}
+
 #header-content{
   display: flex;
   justify-content: space-around;
