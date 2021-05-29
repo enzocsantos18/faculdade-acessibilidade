@@ -28,7 +28,7 @@ header{
   color: var(--dourado);
 }
 
-header:nth:child(2){
+#header-content{
   display: flex;
   justify-content: space-around;
   width: 100%;
