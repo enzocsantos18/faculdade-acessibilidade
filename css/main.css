@@ -21,16 +21,20 @@ body{
 }
 
 header{
-  width: 100vw;
+  width: 100%;
   padding: 10px 0px;
   background-color: rgb(0, 0, 0, 0.90);
   color: var(--dourado);
 }
 
+#header-link {
+  margin-bottom: 10px;
+}
+
 #header-link a{
-  color: white;
-  margin-auto:center;
-  padding: 5%;
+  padding-left: 5%;
+
+  color: var(--dourado);
 }
 
 #header-content{
