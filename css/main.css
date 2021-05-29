@@ -26,6 +26,9 @@ header{
   padding: 10px 0px;
   background-color: rgb(0, 0, 0, 0.90);
   color: var(--dourado);
+}
+
+header:nth:child(2){
   display: flex;
   justify-content: space-around;
   align-items: center;
