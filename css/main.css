@@ -31,6 +31,7 @@ header{
 #header-link a{
   color: white;
   margin-auto:center;
+  padding: 5%;
 }
 
 #header-content{
