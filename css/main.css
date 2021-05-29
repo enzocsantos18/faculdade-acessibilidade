@@ -28,7 +28,7 @@ header{
   color: var(--dourado);
 }
 
-#header-link{
+#header-link a{
   color: white;
   margin-auto:center;
 }
