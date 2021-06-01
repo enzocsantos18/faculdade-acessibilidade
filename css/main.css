@@ -113,7 +113,7 @@ main{
   margin: auto;
 }
 
-main h2{
+main h2, h1{
   color: var(--verdeEscuro);
   font-size: 30px;
   border-left: 2px solid var(--verdeClaro);
