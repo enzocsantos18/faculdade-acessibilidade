@@ -120,6 +120,14 @@ main h2, h1{
   padding-left: 10px;
 }
 
+input:focus {
+  border: 2px solid black !important;
+}
+
+a:focus{
+  border: 2px solid white;
+}
+
 main p{
   font-size: 16px;
   line-height: 36px;
